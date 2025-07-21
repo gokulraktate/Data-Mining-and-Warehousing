@@ -63,8 +63,13 @@ Any Python IDE like VS Code / PyCharm
 
 ✅ Schema Design (Star & Snowflake)
 
+---
 
-🙋‍♂️ Author
-Gokul Raktate
-B.Tech Computer Engineering
-GitHub: @gokulraktate
+## 👨‍💻 Author
+
+**Gokul Raktate**
+🎓 B.Tech Computer Engineering
+GitHub: [@gokulraktate](https://github.com/gokulraktate)
+
+
+
